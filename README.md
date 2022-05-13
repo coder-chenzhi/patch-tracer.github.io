@@ -47,7 +47,7 @@ Both Breadth Dataset and Depth Dataset can be found [here](https://github.com/pa
 
 # Supplementary Materials
 
-These materials are omitted from the submitted paper due to space limitations, and the PDF document can be found [here](https://github.com/patch-tracer/patch-tracer.github.io/blob/main/icse2022-paper1454-supplementary_material.pdf).
+These materials are omitted from the submitted paper due to space limitations, and the PDF document can be found [here](https://github.com/patch-tracer/patch-tracer.github.io/blob/main/esecfse22-paper480-anonymized_supplementary_material.pdf).
 
 
 
